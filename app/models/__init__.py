@@ -1,0 +1,1 @@
+# CreditAI MVP - Models package
